@@ -1,16 +1,27 @@
 # pa3
 
-A new Flutter application.
+A new Flutter application that analyzes the number of confirmed cases of corona and vaccinations.
 
-## Getting Started
+1. login page
+![image](https://user-images.githubusercontent.com/64959224/126076406-3b79fd2f-d0aa-44f4-bffa-2dfb682642cc.png)
 
-This project is a starting point for a Flutter application.
+2. home 
+![image](https://user-images.githubusercontent.com/64959224/126076439-fa400056-d731-4ccc-ba33-d6095d987ef5.png)
 
-A few resources to get you started if this is your first Flutter project:
+3. menu
+![image](https://user-images.githubusercontent.com/64959224/126076462-8b3bff63-4d93-42f6-bd70-beca8e532740.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+4. case/death page
+1) total cases values calculated for each date for 7 days from the ”parsed last date”. 
+![image](https://user-images.githubusercontent.com/64959224/126076646-3330816d-1e96-4665-bfa8-192b961bb16e.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2) daily cases values calculated for each date for 7 days from the ”parsed last date”. 
+![image](https://user-images.githubusercontent.com/64959224/126076673-830c438b-8c8c-44a2-8d3a-0e057035bd60.png)
+
+3) total cases values calculated for each date for 28 days from the ”parsed last date”. 
+![image](https://user-images.githubusercontent.com/64959224/126076683-ec033b29-b56e-423e-88c6-03f7c2e46b65.png)
+
+4) daily cases values calculated for each date for 28 days from the ”parsed last date”. 
+![image](https://user-images.githubusercontent.com/64959224/126076699-88069085-364c-4fc2-9d10-0dc85e8d47d5.png)
+
+6. vaccine page
