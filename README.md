@@ -1,4 +1,4 @@
-# pa3
+# corona app
 
 A new Flutter application that analyzes the number of confirmed cases of corona and vaccinations.
 
